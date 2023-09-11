@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Prompt:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title_cont{
+    height: 15%;
+}
+
+#title_home{
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+    font-size: 50px;
+    font-family: 'Prompt', sans-serif;
+}
+
+#lorem_home{
+    text-align: justify;
+    font-family: 'PT Sans', sans-serif;
+    margin: 0px 10px 0px 10px;
+    padding: 0 1rem;
+    font-size: 20px;
+}

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Prompt:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title_cont_sob{
+    height: 15%;
+}
+
+.sob_cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title_sob{
+    text-align: center;
+    margin: 20px 0 20px 0;
+    font-size: 50px;
+    font-family: 'Prompt', sans-serif;
+}
+
+#cbf_logo{
+    width: 30vh;
+    height: 45vh;
+    margin: 20px 0 20px 20px;
+}
+
+#lorem_sob{
+    text-align: justify;
+    font-family: 'PT Sans', sans-serif;
+    margin: 0px 10px 0px 10px;
+    padding: 0 1rem;
+    font-size: 20px;
+}
+
